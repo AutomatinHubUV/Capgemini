@@ -1,5 +1,11 @@
 int b = 10;
 
+  
+public void multiplication ()
+{
+sysyem.out.println("Thus is Multiplication method") ;
+}
+
 	public void test() {
 		System.out.println("Non - static method 1");
 	}
